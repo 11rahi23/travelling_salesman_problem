@@ -1,0 +1,7 @@
+DFS:
+
+https://likegeeks.com/depth-first-search-in-python/
+
+DFS traversal of a binary tree using recursion
+
+https://www.geeksforgeeks.org/dfs-traversal-of-a-tree-using-recursion/
